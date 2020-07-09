@@ -3912,9 +3912,6 @@ input, select, textarea {
 	.icons {
 		margin: 40px; 
 	}
-	/* .icons > span {
-		margin: 10px; 
-	} */
 
 	.icons > i{
 		font-size: 60px;
@@ -3927,5 +3924,5 @@ input, select, textarea {
 	}
 
 	.icons > i:hover, #redux:hover {
-		/* font-size: 80px; */
+		background-color: white;
 	}
