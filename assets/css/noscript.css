@@ -41,3 +41,10 @@
 		transform: none !important;
 		opacity: 1 !important;
 	}
+
+	/* skills */
+
+	[class^=devicon-] {
+		font-size: 50px;
+		margin: 10px; 
+	}
