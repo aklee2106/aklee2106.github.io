@@ -3912,10 +3912,13 @@ input, select, textarea {
 	.icons {
 		margin: 40px; 
 	}
-
-	.icons > span > i{
-		font-size: 60px;
+	/* .icons > span {
 		margin: 10px; 
+	} */
+
+	.icons > i{
+		font-size: 60px;
+		margin: 10px;
 	}
 
 	#redux {
@@ -3923,6 +3926,6 @@ input, select, textarea {
 		margin: 10px;
 	}
 
-	.icons > span > i:hover {
+	.icons > i:hover, #redux:hover {
 		font-size: 80px;
 	}
