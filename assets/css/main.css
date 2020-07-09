@@ -3909,8 +3909,11 @@ input, select, textarea {
 		}
 
 	/* skills */
+	.icons {
+		margin: 40px; 
+	}
 
-	.icons > i {
+	.icons > i, svg {
 		font-size: 60px;
 		margin: 10px; 
 	}
