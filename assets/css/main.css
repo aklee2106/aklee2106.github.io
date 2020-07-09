@@ -3918,14 +3918,14 @@ input, select, textarea {
 
 	.icons > i{
 		font-size: 60px;
-		margin: 10px;
+		margin: 20px;
 	}
 
 	#redux {
 		height: 60px; 
-		margin: 10px;
+		margin: 20px;
 	}
 
 	.icons > i:hover, #redux:hover {
-		font-size: 80px;
+		/* font-size: 80px; */
 	}
