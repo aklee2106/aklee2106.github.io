@@ -3915,14 +3915,14 @@ input, select, textarea {
 
 	.icons > i{
 		font-size: 60px;
-		margin: 20px;
+		margin: 40px;
 	}
 
 	#redux {
 		height: 60px; 
-		margin: 20px;
+		margin-left: 40px;
 	}
 
 	.icons > i:hover, #redux:hover {
-		background-color: white;
+		color: white;
 	}
