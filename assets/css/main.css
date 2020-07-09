@@ -3930,6 +3930,6 @@ input, select, textarea {
 		color: white;
 	}
 
-	#redux:hover {
+	#redux:hover, #redux > path {
 		fill: white;
 	}
