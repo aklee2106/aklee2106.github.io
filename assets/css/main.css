@@ -3913,7 +3913,7 @@ input, select, textarea {
 		margin: 40px; 
 	}
 
-	.icons > i, svg {
+	.icons > i {
 		font-size: 60px;
 		margin: 10px; 
 	}
