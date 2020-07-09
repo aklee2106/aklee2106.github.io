@@ -2827,7 +2827,7 @@ input, select, textarea {
 					display: none;
 				}
 
-			.icons > li > a {
+			.fa-angellist, .fa-github, .fa-linkedin-in {
 				font-size: 30px; 
 			}
 /* Menu */
