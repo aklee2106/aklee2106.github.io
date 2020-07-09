@@ -3910,11 +3910,11 @@ input, select, textarea {
 
 	/* skills */
 
-	[class*="devicon-"] {
-		font-size: 50px;
+	.icons > i {
+		font-size: 60px;
 		margin: 10px; 
 	}
 
-	[class*="devicon-"]:hover {
-		font-size: 75px;
+	.icons > i:hover {
+		font-size: 80px;
 	}
