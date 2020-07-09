@@ -44,7 +44,11 @@
 
 	/* skills */
 
-	#skills i {
+	.icons > i {
 		font-size: 50px;
 		margin: 10px; 
+	}
+
+	#icons > i:hover {
+		font-size: 75px;
 	}
