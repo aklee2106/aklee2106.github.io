@@ -44,7 +44,7 @@
 
 	/* skills */
 
-	[class^=devicon-] {
+	#skills i {
 		font-size: 50px;
 		margin: 10px; 
 	}
