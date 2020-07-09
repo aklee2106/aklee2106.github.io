@@ -3909,11 +3909,11 @@ input, select, textarea {
 		}
 
 	/* skills */
-	.icons2 {
+	.icons {
 		margin: 40px; 
 	}
 
-	.icons2 > i{
+	.icons > i{
 		font-size: 60px;
 		margin: 40px;
 	}
@@ -3923,6 +3923,6 @@ input, select, textarea {
 		margin-left: 40px;
 	}
 
-	.icons2 > i:hover, #redux:hover {
+	.icons > i:hover, #redux:hover {
 		color: white;
 	}
