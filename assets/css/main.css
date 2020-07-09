@@ -3907,3 +3907,14 @@ input, select, textarea {
 			}
 
 		}
+
+	/* skills */
+
+	[class*="devicon-"] {
+		font-size: 50px;
+		margin: 10px; 
+	}
+
+	[class*="devicon-"]:hover {
+		font-size: 75px;
+	}

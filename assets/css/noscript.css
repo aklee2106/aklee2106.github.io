@@ -42,13 +42,3 @@
 		opacity: 1 !important;
 	}
 
-	/* skills */
-
-	.icons > i {
-		font-size: 50px;
-		margin: 10px; 
-	}
-
-	#icons > i:hover {
-		font-size: 75px;
-	}
