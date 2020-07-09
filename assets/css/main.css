@@ -3913,16 +3913,16 @@ input, select, textarea {
 		margin: 40px; 
 	}
 
-	.icons i {
+	.icons > span > i{
 		font-size: 60px;
 		margin: 10px; 
 	}
 
-	.icons svg {
+	#redux {
 		height: 60px; 
 		margin: 10px;
 	}
 
-	.icons i:hover {
+	.icons > span > i:hover {
 		font-size: 80px;
 	}
